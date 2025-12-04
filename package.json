@@ -1,0 +1,26 @@
+{
+  "name": "taller-git-ci-3223874-brayandiaz",
+  "version": "1.0.0",
+  "description": "Repositorio para el Taller Integrador - Semanas 1 a 6",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brayandiazarrieta4-lang/taller-git-ci-3223874-brayandiaz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brayandiazarrieta4-lang/taller-git-ci-3223874-brayandiaz/issues"
+  },
+  "homepage": "https://github.com/brayandiazarrieta4-lang/taller-git-ci-3223874-brayandiaz#readme",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
