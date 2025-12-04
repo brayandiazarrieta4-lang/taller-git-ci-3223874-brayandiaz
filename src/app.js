@@ -15,3 +15,4 @@ console.log("App lista");
 document.getElementById("btnAgregar")?.addEventListener("click", () => {
   agregarItem("Elemento nuevo");
 });
+// función para agregar elemento a la lista
